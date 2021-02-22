@@ -9,7 +9,6 @@ This project is for the paper "Ensemble-Based Out-of-Distribution Detection" in 
 - scipy
 - scikit-learn
 - numpy
-- ETC.
 
 ## Experiments
 We provide several expeiments of ood detection using various combinations of datasets. 
