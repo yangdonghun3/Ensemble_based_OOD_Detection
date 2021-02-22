@@ -34,6 +34,6 @@ Please download and place them to `./trained_models/`.
 - Run all code in network_trainer_1C.ipynb, and network_trainer_3C.ipynb.
 - You can see all trained models in `./trained_models/`.
 
-### Out-of-distribution Detection (Baseline Method, ODIN, Mahalanobis-based Method, DML-based Method (ours) )
+### Out-of-distribution Detection (Baseline, ODIN, Mahalanobis-based Method, DML-based Method, Ensemble-based Method (ours))
 - Run all code in MAIN_1c.ipynb and MAIN_3c.ipynb
 - All results will be printed in the each cell of Main_1c and Main_3c notebook  
